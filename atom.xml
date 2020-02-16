@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hhuang6.github.io</id>
     <title>hhuang6</title>
-    <updated>2020-02-16T20:58:36.308Z</updated>
+    <updated>2020-02-16T21:02:47.879Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hhuang6.github.io"/>
     <link rel="self" href="https://hhuang6.github.io/atom.xml"/>
@@ -10,4 +10,13 @@
     <logo>https://hhuang6.github.io/images/avatar.png</logo>
     <icon>https://hhuang6.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, hhuang6</rights>
+    <entry>
+        <title type="html"><![CDATA[测试]]></title>
+        <id>https://hhuang6.github.io/post/ce-shi</id>
+        <link href="https://hhuang6.github.io/post/ce-shi">
+        </link>
+        <updated>2020-02-16T08:02:17.000Z</updated>
+        <content type="html"><![CDATA[<p>测试</p>
+]]></content>
+    </entry>
 </feed>
